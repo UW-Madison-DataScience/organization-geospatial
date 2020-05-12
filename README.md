@@ -7,4 +7,9 @@
 
 # Geospatial Data Organization
 
+This is a variant of the [Geospatial Data Carpentry Workshop](https://datacarpentry.org/geospatial-workshop/) created at UW-Madison as part of video workshop series.
+This is lesson a version of the [Introduction to Geospatial Conecepts Lesson](https://datacarpentry.org/organization-geospatial/) developed for the video workshop series.
+
+## Build and Depolyment
+
 This lesson is built and deployed automatically on Travis CI. All changes should only be made in the `master` branch.
