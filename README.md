@@ -8,7 +8,7 @@
 # Geospatial Data Organization
 
 This is a variant of the [Geospatial Data Carpentry Workshop](https://datacarpentry.org/geospatial-workshop/) created at UW-Madison as part of video workshop series.
-This is lesson repo a version of the [Introduction to Geospatial Conecepts Lesson](https://datacarpentry.org/organization-geospatial/) developed for the video workshop series.
+This lesson repo is a version of the [Introduction to Geospatial Conecepts Lesson](https://datacarpentry.org/organization-geospatial/) developed for the video workshop series.
 
 ## Build and Depolyment
 
