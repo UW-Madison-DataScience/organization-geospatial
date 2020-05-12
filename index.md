@@ -22,6 +22,10 @@ provides a more in-depth introduction to visualization (focusing on geospatial d
 and working with data structures unique to geospatial data. The R for Raster and Vector Data lesson assumes that learners are already familiar with both geospatial 
 data concepts and the core concepts of the R language.
 
+This is a variant of the [Geospatial Data Carpentry Workshop](https://datacarpentry.org/geospatial-workshop/) 
+created at UW-Madison as part of video workshop series.
+The [Data Carpentry](https://datacarpentry.org/) version of the [Introduction to Geospatial Conecepts Lesson](https://datacarpentry.org/organization-geospatial/) may differ slightly.
+
 > ## Getting Started
 >
 > This lesson has no pre-requisites. There is no required setup or data to 
