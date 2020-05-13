@@ -136,7 +136,7 @@ A PROJ4 string includes the following information:
 
 * **proj=:** the projection of the data
 * **zone=:** the zone of the data (this is specific to the UTM projection)
-* **datum=:** the datum use
+* **datum=:** the datum used
 * **units=:** the units for the coordinates of the data
 * **ellps=:** the ellipsoid (how the earth's  roundness is calculated) for
 the data
