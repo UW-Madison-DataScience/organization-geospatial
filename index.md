@@ -26,7 +26,6 @@ This is a variant of the [Geospatial Data Carpentry Workshop](https://datacarpen
 created at UW-Madison as part of video workshop series.
 The [Data Carpentry](https://datacarpentry.org/) version of the [Introduction to Geospatial Conecepts Lesson](https://datacarpentry.org/organization-geospatial/) may differ slightly.
 
-
 > ## Getting Started
 >
 > This lesson has no pre-requisites. There is no required setup or data to
