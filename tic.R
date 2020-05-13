@@ -12,7 +12,7 @@ get_stage("deploy") %>%
     add_step(build_lesson())##  %>%
     ## add_step(check_links())
 
-if (Sys.getenv("id_rsa") != "") {
+if (Sys.getenv("TRAVIS_DEPLOY_KEY") != "") {
   # pkgdown documentation can be built optionally. Other example criteria:
   # - `inherits(ci(), "TravisCI")`: Only for Travis CI
   # - `ci()$is_tag()`: Only for tags, not for branches
