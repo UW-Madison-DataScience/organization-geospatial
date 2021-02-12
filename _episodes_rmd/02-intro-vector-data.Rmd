@@ -7,6 +7,7 @@ questions:
 objectives:
 - "Describe the strengths and weaknesses of storing data in vector format."
 - "Describe the three types of vectors and identify types of data that would be stored in each."
+- "Brainstorm research questions that you can use vector data to answer."
 keypoints:
 - "Vector data structures represent specific features on the Earth's surface along with attributes of those features."
 - "Vector objects are either points, lines, or polygons."
@@ -148,5 +149,16 @@ objects in a single shapefile.
 > effects of particular data manipulations are more predictable if you are
 > confident that all of your input data has the same characteristics.
 {: .callout}
+
+> > ## Research Questions for Vector Data
+> > 
+> > Brainstorm potential research questions you could use vector data to answer, with your neighbor.
+> >
+> > ## Solution
+> > Which residences are within 500 meters of the river?
+> > Which schools are in Milwaukee?
+> > 
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
