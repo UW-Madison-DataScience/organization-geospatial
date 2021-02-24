@@ -49,8 +49,7 @@ some major features and types of raster data.
 The two primary types of geospatial data are raster
 and vector data. Raster data is stored as a grid of values which are rendered on a
 map as pixels. Each pixel value represents an area on the Earth's surface. Vector data structures represent specific features on the
-Earth's surface, and
-assign attributes to those features. Vector data structures
+Earth's surface, and assign attributes to those features. Vector data structures
 will be discussed in more detail in [the next episode]({{ base.url }}/02-intro-vector-data/).
 
 The [R for Raster and Vector Data](https://datacarpentry.org/r-raster-vector-geospatial/)
@@ -310,6 +309,16 @@ par(original_par) # go back to original par
 > check out the NEON Data Skills 
 > [Imaging Spectroscopy HDF5 in R](https://www.neonscience.org/hsi-hdf5-r)
 > tutorial if you're interested in working with hyperspectral data cubes.
+
+
+> ## Research Questions with Raster Data
+> What kinds of geographic questions can you ask using raster data? Brainstorm a few with your neighbor.
+> > ## Solution
+> >
+> > How does elevation change across the state of Wisconsin?
+> > How does average temperature differ across space?
+> {: .solution}
+{: .challenge}
 {: .callout}
 
 {% include links.md %}
