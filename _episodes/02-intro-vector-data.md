@@ -134,5 +134,6 @@ objects in a single shapefile.
 > > 
 > {: .solution}
 {: .challenge}
+{: .callout}
 
 {% include links.md %}
