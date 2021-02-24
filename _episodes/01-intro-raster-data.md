@@ -238,4 +238,14 @@ resolution, and CRS.
 > tutorial if you're interested in working with hyperspectral data cubes.
 {: .callout}
 
+> ## Research Questions with Raster Data
+> What kinds of geographic questions can you ask using raster data? Brainstorm a few with your neighbor.
+> > ## Solution
+> >
+> > How does elevation change across the state of Wisconsin?
+> > How does average temperature differ across space?
+> {: .solution}
+{: .challenge}
+{: .callout}
+
 {% include links.md %}
