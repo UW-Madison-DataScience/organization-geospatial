@@ -242,7 +242,7 @@ resolution, and CRS.
 > What kinds of geographic questions can you ask using raster data? Brainstorm a few with your neighbor.
 > > ## Solution
 > >
-> > How does elevation change across the state of Wisconsin?
+> > How are precipitation patterns different across space?
 > > How does average temperature differ across space?
 > {: .solution}
 {: .challenge}
