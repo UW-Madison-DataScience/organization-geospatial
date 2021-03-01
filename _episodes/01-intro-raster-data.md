@@ -26,8 +26,8 @@ source: Rmd
 
 
 
-This episode introduces the two primary types of geospatial
-data: rasters and vectors. After briefly introducing these
+This episode reviews the two primary types of geospatial
+data: rasters and vectors. After briefly going over these
 data types, this episode focuses on raster data, describing
 some major features and types of raster data.
 
