@@ -246,6 +246,5 @@ resolution, and CRS.
 > > How does average temperature differ across space?
 > {: .solution}
 {: .challenge}
-{: .callout}
 
 {% include links.md %}
