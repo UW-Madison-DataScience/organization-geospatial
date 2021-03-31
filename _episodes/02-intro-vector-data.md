@@ -125,13 +125,12 @@ objects in a single shapefile.
 {: .callout}
 
 >  ## Research Questions for Vector Data
-> > Brainstorm potential research questions you could use vector data to answer, with your neighbor.
+> Brainstorm potential research questions you could use vector data to answer, with your neighbor.
 > > ## Solution
 > > 
 > > Which residences are within 500 meters of the river?
 > > Which schools are in Milwaukee?
 > {: .solution}
 {: .challenge}
-{: .callout}
 
 {% include links.md %}
