@@ -125,7 +125,6 @@ objects in a single shapefile.
 {: .callout}
 
 >  ## Research Questions for Vector Data
->  
 > Brainstorm potential research questions you could use vector data to answer, with your neighbor.
 > > ## Solution
 > > 
