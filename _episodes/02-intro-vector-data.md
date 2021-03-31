@@ -133,6 +133,7 @@ objects in a single shapefile.
 > > Which residences are within 500 meters of the river?
 > > Which schools are in Milwaukee?
 > > 
+> > {: .output}
 > {: .solution}
 {: .challenge}
 
