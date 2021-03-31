@@ -124,7 +124,7 @@ objects in a single shapefile.
 > confident that all of your input data has the same characteristics.
 {: .callout}
 
->  ## Research Questions for Vector Data
+> ## Research Questions for Vector Data
 >  
 > Brainstorm potential research questions you could use vector data to answer, with your neighbor.
 > 
@@ -133,7 +133,6 @@ objects in a single shapefile.
 > > Which residences are within 500 meters of the river?
 > > Which schools are in Milwaukee?
 > > 
-> > {: .output}
 > {: .solution}
 {: .challenge}
 
